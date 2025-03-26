@@ -1,0 +1,225 @@
+.table {
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+    width: 50vw;
+    border: 4px solid #3bce13;
+  }
+  
+  .table th,
+  .table td {
+    text-align: left;
+    padding: 5px;
+    border-top: 1px solid #003333;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .table th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+    color: #333;
+    padding: 25px;
+    text-align: start;
+  }
+  
+  .table tr:hover {
+    background-color: #f9f9f9;
+  }
+  .menu{
+    margin-bottom: 5%;
+  }
+  .calc {
+    height: fit-content;
+    border: 0;
+    background-color: #00000000;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .portion {
+    display: flex;
+    align-items: center;
+    width: fit-content;
+    gap: 5px;
+    font-size: 1.2em;
+    height: fit-content;
+  }
+  .portion p{
+    width: 22px;
+    text-align: center;
+  }
+  
+  .kal {
+    width: 144px;
+    height: 144px;
+    background-color: #003333;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .kal p {
+    color: white;
+    font-size: 24px;
+    font-weight: 300;
+  }
+  
+  .kkal {
+    width: fit-content;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .kkal p {
+    margin: 0;
+    font-weight: 300;
+    font-size: 24px;
+  }
+  
+  .bel {
+    width: 144px;
+    height: 144px;
+    background-color: #99cc33;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .bel p {
+    margin: 0;
+    font-size: 24px;
+    font-weight: 300;
+  }
+  
+  .belki {
+    width: fit-content;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .belki p {
+    margin: 0;
+    font-weight: 300;
+    font-size: 24px;
+  }
+  
+  .oil {
+    width: 144px;
+    height: 144px;
+    background-color: #99cc33;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .oil p {
+    margin: 0;
+    font-size: 24px;
+    font-weight: 300;
+  }
+  
+  .oily {
+    width: fit-content;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .oily p {
+    margin: 0;
+    font-size: 24px;
+    font-weight: 300;
+  }
+  
+  .carb {
+    width: 144px;
+    height: 144px;
+    background-color: #99cc33;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .carb p {
+    margin: 0;
+    font-size: 24px;
+    font-weight: 300;
+  }
+  
+  .carbs {
+    width: fit-content;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .carbs p {
+    font-size: 24px;
+    font-weight: 300;
+    margin: 0;
+  }
+  
+  .info {
+    display: flex;
+    height: fit-content;
+    gap: 10px;
+  }
+  
+  
+  /* Стили для таблицы ингредиентов */
+  .ingredientsTable {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .ingredientsTableHeader,
+  .ingredientsTableCell {
+    width: 100%;
+    text-align: left;
+  }
+  .ingredientsTableRow{
+    border: 1px solid #000;
+  }
+  
+  .ingredientsTableHeader {
+    background-color: #99CC33;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  /* Зеленый фон для нечетных строк */
+  .ingredientsTableRow:nth-child(even) {
+    background-color: #99CC334D; /* Светло-зеленый цвет */
+  }
+  .button{
+    width: 100%;
+    border: 0;
+    background-color: #fff;
+  }
+  
+.dayMenuContainer {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  

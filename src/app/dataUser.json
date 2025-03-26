@@ -1,0 +1,25 @@
+[
+  {
+    "_id": {
+      "$oid": "1"
+    },
+    "userName": "Ladno",
+    "recipes": {
+      "breakfasts": [
+        "67d548661e06e4d72d9dcf12",
+        "67d548691e06e4d72d9dcf35",
+        "67d548731e06e4d72d9dcf72"
+      ],
+      "lunches": [
+        "67d548781e06e4d72d9dcf85",
+        "67d548701e06e4d72d9dcf5f",
+        "67d5486d1e06e4d72d9dcf49"
+      ],
+      "dinners": [
+        "67d548691e06e4d72d9dcf35",
+        "67d548701e06e4d72d9dcf5f",
+        "67d548661e06e4d72d9dcf12"
+      ]
+    }
+  }
+]

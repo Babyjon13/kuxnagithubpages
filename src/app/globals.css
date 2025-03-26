@@ -1,0 +1,33 @@
+:root {
+  --background: #f4f5f4;
+  --foreground: #003333;
+}
+
+html,
+body {
+  text-align: justify;
+  word-wrap: break-word;
+  text-justify:auto;
+  hyphens: auto;
+}
+
+body {
+  background: var(--background);
+  font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif, Helvetica, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 0px;
+}
+
+a {
+  text-decoration: none;
+  color: var(--foreground);
+}
+
+a:visited {
+  color: var(--foreground);
+}
+a:hover{
+  cursor: pointer;
+  
+}

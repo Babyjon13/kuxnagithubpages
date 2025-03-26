@@ -1,0 +1,33 @@
+.week{
+    background-color: #003333;
+    width: fit-content;
+    color: antiquewhite;
+    padding: 10px;
+    border-radius: 5px;
+    height: fit-content;
+}
+
+.main p{
+    margin: 0;
+}
+
+.main{
+    margin: 5%;
+    display: flex;
+    gap: 20px;
+}
+
+
+
+.day{
+    background-color:#FFFFFF;
+    width: fit-content;
+    padding: 10px 24px;
+    height: fit-content;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.day:hover{
+    background: #99CC33;
+}

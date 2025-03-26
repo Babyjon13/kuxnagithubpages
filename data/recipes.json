@@ -1,0 +1,182 @@
+[
+  {
+    "_id": "67c9ae343716ad78388737ad",
+    "title": "Брауни",
+    "description": "poiunjpiunpiu",
+    "images": [
+      "/uploads/1741270580077_cleo-stracuzza-I-X7DAAcZns-unsplash.jpg"
+    ],
+    "cookingTime": "1 ч 30 мин",
+    "nutritionalValue": {
+      "kkal": 266,
+      "bel": 109.8,
+      "fats": 1.7,
+      "carbs": 5.8
+    },
+    "categories": [
+      "Более часа",
+      "200-400 ккал",
+      "Ужин"
+    ]
+  },
+  {
+    "_id": "67c9ae343716ad78388737a1",
+    "title": "Яблочный штрудель",
+    "description": "poiunjpiunpiu",
+    "images": [
+      "/uploads/louis-hansel-wOISTbCpUCc-unsplash.jpg"
+    ],
+    "cookingTime": "1 ч 30 мин",
+    "nutritionalValue": {
+      "kkal": 266,
+      "bel": 109.8,
+      "fats": 1.7,
+      "carbs": 5.8
+    },
+    "categories": [
+      "Более часа",
+      "200-400 ккал",
+      "Ужин"
+    ]
+  },
+  {
+    "_id": "67c9ae343716ad78388737a2",
+    "title": "Салат из овощей и сёмги",
+    "description": "poiunjpiunpiu",
+    "images": [
+      "/uploads/taylor-kiser-EvoIiaIVRzU-unsplash.jpg"
+    ],
+    "cookingTime": "1 ч 30 мин",
+    "nutritionalValue": {
+      "kkal": 266,
+      "bel": 109.8,
+      "fats": 1.7,
+      "carbs": 5.8
+    },
+    "categories": [
+      "Более часа",
+      "200-400 ккал",
+      "Ужин"
+    ]
+  },
+  {
+    "_id": "67c9ae343716ad78388737a3",
+    "title": "Брауни",
+    "description": "poiunjpiunpiu",
+    "images": [
+      "/uploads/brooke-lark-jUPOXXRNdcA-unsplash.jpg"
+    ],
+    "cookingTime": "1 ч 30 мин",
+    "nutritionalValue": {
+      "kkal": 266,
+      "bel": 109.8,
+      "fats": 1.7,
+      "carbs": 5.8
+    },
+    "categories": [
+      "Более часа",
+      "200-400 ккал",
+      "Ужин"
+    ]
+  },
+  {
+    "_id": "67c9ae343716ad78388737a4",
+    "title": "Овсянка с авокадо",
+    "description": "poiunjpiunpiu",
+    "images": [
+      "/uploads/brooke-lark-nTZOILVZuOg-unsplash.jpg"
+    ],
+    "cookingTime": "1 ч 30 мин",
+    "nutritionalValue": {
+      "kkal": 266,
+      "bel": 109.8,
+      "fats": 1.7,
+      "carbs": 5.8
+    },
+    "categories": [
+      "Более часа",
+      "200-400 ккал",
+      "Ужин"
+    ]
+  },
+  {
+    "_id": "67c9ae343716ad78388737a5",
+    "title": "Тыквенный суп",
+    "description": "poiunjpiunpiu",
+    "images": [
+      "/uploads/ella-olsson-fxJTl_gDh28-unsplash.jpg"
+    ],
+    "cookingTime": "1 ч 30 мин",
+    "nutritionalValue": {
+      "kkal": 266,
+      "bel": 109.8,
+      "fats": 1.7,
+      "carbs": 5.8
+    },
+    "categories": [
+      "Более часа",
+      "200-400 ккал",
+      "Ужин"
+    ]
+  },
+  {
+    "_id": "67c9ae343716ad78388737a6",
+    "title": "Брауни",
+    "description": "poiunjpiunpiu",
+    "images": [
+      "/uploads/monika-grabkowska-_y6A9bhILkM-unsplash.jpg"
+    ],
+    "cookingTime": "1 ч 30 мин",
+    "nutritionalValue": {
+      "kkal": 266,
+      "bel": 109.8,
+      "fats": 1.7,
+      "carbs": 5.8
+    },
+    "categories": [
+      "Более часа",
+      "200-400 ккал",
+      "Ужин"
+    ]
+  },
+  {
+    "_id": "67c9ae343716ad78388737a7",
+    "title": "Брауни",
+    "description": "poiunjpiunpiu",
+    "images": [
+      "/uploads/tania-melnyczuk-xeTv9N2FjXA-unsplash.jpg"
+    ],
+    "cookingTime": "1 ч 30 мин",
+    "nutritionalValue": {
+      "kkal": 266,
+      "bel": 109.8,
+      "fats": 1.7,
+      "carbs": 5.8
+    },
+    "categories": [
+      "Более часа",
+      "200-400 ккал",
+      "Ужин"
+    ]
+  },
+  {
+    "_id": "67c9ae343716ad78388737a8",
+    "title": "Запеканка",
+    "description": "poiunjpiunpiu",
+    "images": [
+      "/uploads/sina-piryae-bBzjWthTqb8-unsplash.jpg"
+    ],
+    "cookingTime": "1 ч 30 мин",
+    "nutritionalValue": {
+      "kkal": 266,
+      "bel": 109.8,
+      "fats": 1.7,
+      "carbs": 5.8
+    },
+    "categories": [
+      "Более часа",
+      "200-400 ккал",
+      "Ужин"
+    ]
+  }
+]
